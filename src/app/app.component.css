@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h3{
+text-align: center;
+color: #fff ;
+height: 60px;
+line-height: 60px;
+}
+
+.container{
+    display: flex;
+    background-color: #2f3234;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width:none;
+    
+    
+}
+
+.titulo{
+    width: 55%;
+    line-height: 60px;
+    
+}
+
+.logo{
+    width: 20%;
+    line-height: 60px;
+}
+
+img{
+    margin-left: 20px;
+}
