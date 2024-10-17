@@ -31,7 +31,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 - **Angular CLI** (versão 17 ou superior)
 - Um editor de texto, como o **VS Code**
 
-### Como rodar o projeto
+#### Como rodar o projeto
 
 1. Clone este repositório em sua máquina local:
    ```bash
