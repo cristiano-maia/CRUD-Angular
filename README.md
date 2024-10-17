@@ -36,3 +36,5 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 1. Clone este repositório em sua máquina local:
    ```bash
    git clone [https do projeto]
+
+Link do projeto: [Projeto CRUD](https://cristiano-maia.github.io/CRUD-Angular/)
